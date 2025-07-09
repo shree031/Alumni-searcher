@@ -28,7 +28,7 @@ Searches LinkedIn alumni profiles.
 **Request Body:**
 ```json
 {
-  "university": "Savitribai Phule Pune University",
+  "university": "MIT",
   "designation": "Software Engineer",
   "passoutYear": 2020
 }
@@ -42,7 +42,7 @@ Searches LinkedIn alumni profiles.
     {
       "name": "John Doe",
       "currentRole": "Software Engineer",
-      "university": "Savitribai Phule Pune University",
+      "university": "MIT",
       "location": "New York",
       "linkedinHeadline": "Software Engineer @ XYZ",
       "passoutYear": 2020
@@ -88,8 +88,3 @@ phantombuster.identity.name=Your Full Name
 - Error handling for failed API calls or JSON parsing
 - Expandable with DB, caching, or scheduling
 
----
-
-## 📧 Author
-
-Developed by Shreedevi Patil as part of a technical assignment.
