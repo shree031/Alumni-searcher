@@ -51,8 +51,8 @@ Searches LinkedIn alumni profiles.
 }
 ```
 
-### 📥 GET `/api/alumni/all` (Optional)
-Fetch all saved alumni (if DB is used).
+### 📥 GET `/api/alumni/all` 
+Fetch all saved alumni.
 
 ---
 
