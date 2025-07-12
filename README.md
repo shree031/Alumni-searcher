@@ -72,7 +72,7 @@ phantombuster.identity.name=Your Full Name
 
 3. **Run the application:**
 ```bash
-./mvnw spring-boot:run
+./gradlew bootRun
 ```
 
 4. **Test with Postman:**
